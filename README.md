@@ -15,11 +15,6 @@ This is a simple Tic Tac Toe game made with HTML, CSS, JavaScript and Tailwind C
 - JavaScript
 - Tailwind CSS
 
-## Screenshots
-
-![Screenshot 1](/Media/s1.png)
-![Screenshot 2](/Media/s2.png)
-
 ## Credits
 
 - [Tailwind CSS](https://tailwindcss.com/)
